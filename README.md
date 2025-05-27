@@ -4,7 +4,7 @@
 
 I'm currently a CIS student with a keen interest in cybersecurity. I'm on a journey to become a cybersecurity professional, and I'm actively taking courses to deepen my understanding of the field. My self-driven learning has equipped me with skills in Python, ethical hacking, network fundamentals, and Linux, including administration of Kali Linux.
 
-I'm currently engaged in a malware analysis course, which is another step towards broadening my cybersecurity expertise. I'm excited about the possibilities in this field and am eager to contribute to it while continuously learning and growing.
+I'm currently engaged in a malware analysis course, which is another step towards broadening my cybersecurity expertise. I'm excited about the possibilities in this field and am eager to contribute to it while continuously learning and growing.<br>
 👨🏼‍🎓 studying computer and information science at Egypt university of informatics (EUI)<br>
 <!-- Comment text 
 # 💻 Tech Stack:
@@ -13,7 +13,9 @@ I'm currently engaged in a malware analysis course, which is another step toward
 # 💻 Tech Stack:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
+### Goals and Aspirations
 
+My goal is to contribute meaningfully to the cybersecurity field. I aim to protect digital assets and infrastructure from cyber threats while continuously learning and adapting to the ever-evolving landscape of cybersecurity.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EyadEhab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EyadEhab&theme=dark&hide_border=false)<br/>
