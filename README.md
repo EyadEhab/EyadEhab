@@ -1,5 +1,10 @@
 
 # Hello World!, I'm Eyad, an Egyptian college student:
+### About Me
+
+I'm currently a CIS student with a keen interest in cybersecurity. I'm on a journey to become a cybersecurity professional, and I'm actively taking courses to deepen my understanding of the field. My self-driven learning has equipped me with skills in Python, ethical hacking, network fundamentals, and Linux, including administration of Kali Linux.
+
+I'm currently engaged in a malware analysis course, which is another step towards broadening my cybersecurity expertise. I'm excited about the possibilities in this field and am eager to contribute to it while continuously learning and growing.
 🛜 currently working on my Carrer<br>👨🏼‍🎓 studying computer and information science at Egypt university of informatics (EUI)<br>
 <!-- Comment text 
 # 💻 Tech Stack:
